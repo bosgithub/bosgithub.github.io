@@ -1,5 +1,4 @@
-## Bo
-
+## Hi! I'm Bo :)
 
 ### Markdown
 
